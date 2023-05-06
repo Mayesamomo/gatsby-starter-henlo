@@ -1,8 +1,20 @@
 {
   "nav": [
     {
-      "name": "Documentation",
-      "permalink": "https://github.com/clean-commit/gatsby-starter-henlo"
+      "name": "Home",
+      "permalink": "/"
+    },
+    {
+      "name": "About",
+      "permalink": "/about"
+    },
+    {
+      "name": "Projects",
+      "permalink": "/projects"
+    },
+    {
+      "name": "Contact Me",
+      "permalink": "/contact"
     }
   ]
 }
