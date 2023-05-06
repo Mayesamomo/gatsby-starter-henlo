@@ -7,7 +7,7 @@ export default function Footer() {
         <a
           href='https://cleancommit.io?utm_source=HenloGatsby&utm_medium=referral'
           className='text-center text-sm font-regular text-gray-400 hover:text-gray-500 transition-colors'>
-          Created by cleancommit.io
+          Made with Love by Michael Momo
         </a>
       </div>
     </footer>

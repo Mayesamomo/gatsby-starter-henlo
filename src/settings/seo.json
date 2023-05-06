@@ -1,11 +1,11 @@
 {
   "separator": "|",
-  "baseTitle": "Henlo.",
-  "keyword": "gatsby-starter, blazing fast static site",
+  "baseTitle": "Michael Momo.",
+  "keyword": "fullstack developer, software engineer, software developer",
   "lang": "en",
-  "title": "The most advanced starter for Gatsby & Netlify CMS.",
-  "themeColor": "#000",
+  "title": "Fast and affordable web development.",
+  "themeColor": "#1E1E1E",
   "image": "/img/henlo-cover.png",
-  "twitterHandle": "@cleancommit",
+  "twitterHandle": "@stressedbycode",
   "description": "Think lightweight WordPress. Extensible, block based starter for Netlify CMS. Built with performance in mind, styled with TailwindCSS. "
 }
