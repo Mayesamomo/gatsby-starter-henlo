@@ -7,20 +7,19 @@ permalink: /
 thumbnail: ""
 blocks:
   - type: hero
-    title: Henlo.
-    content: |-
-      ## The most advanced starter for Gatsby & Netlify CMS.
+    title: Michael A. Momo
+    content: >-
+      
 
-      Extensible, block based starter for Netlify CMS.\
-      Built with performance in mind, styled with TailwindCSS.
-
-      **Think lightweight WordPress.**
+      As a full-stack developer, I excel in both front-end and back-end technologies to build comprehensive software solutions.
     variant: centered
     buttons:
       - button:
           variant: default
-          content: Documentation
-          url: https://github.com/clean-commit/gatsby-starter-henlo
+      - button:
+          variant: button
+          content: Contact Me
+          url: /contact
   - type: perks
     title: Features
     columns:
