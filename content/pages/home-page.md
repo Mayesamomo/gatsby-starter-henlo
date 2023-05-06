@@ -16,8 +16,6 @@ blocks:
     buttons:
       - button:
           variant: default
-      - button:
-          variant: button
           content: Contact Me
           url: /contact
   - type: perks
